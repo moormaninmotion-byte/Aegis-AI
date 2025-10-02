@@ -1,0 +1,5 @@
+{
+  "name": "Aegis AI Agent",
+  "description": "A personal AI agent that interacts with PowerShell to generate and analyze logs, comparing them to threat intelligence feeds. The conversational assistant learns about your system to help identify suspicious activity.",
+  "requestFramePermissions": []
+}
